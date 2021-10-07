@@ -1,10 +1,10 @@
-### Calculador de Indice de Masa Corporal (BMI) utilizando principalmente Angular 🤩
+### Calculador de Índice de Masa Corporal (BMI) utilizando principalmente Angular 🤩
 
 ### ✨ Función principal:
 * #### **`Calcular el BMI dependiendo la altura, peso y edad de la persona`** 
 
 ### 🖐️ Sirve para:
-* #### **`Conocer si tenes un peso bajo, normal o sobrepeso`** 
+* #### **`Conocer tu peso ideal`** 
 
 ### 👉 Imágenes de ejemplo:
 
